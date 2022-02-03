@@ -97,19 +97,19 @@ let arr1 = [1, 2, 3, 6, 7, 18, 20, 21],
 // }
 
 // console.log(myMap(numbers,myFn));
-// -----------------g----------??????
-let arr = [1, 2, 3, 4, 5];
+// -----------------g----------
+// let arr = [1, 2, 3, 4, 5];
 
-let result = arr.reduce((p, current) => p * current, 1);
+// let result = arr.reduce((p, current) => p * current, 1);
 
-console.log(result);// 15
+// console.log(result);// 15
 
 
-function myReduce(arr, previousValue, item, index, array) {
-    console.log(x);
-}
+// function myReduce(arr, previousValue, item, index, array) {
+//     console.log(x);
+// }
 
-myReduce([1, 2, 3],)
+// myReduce([1, 2, 3],)
 
 // -----------------------2-------------------------
 
